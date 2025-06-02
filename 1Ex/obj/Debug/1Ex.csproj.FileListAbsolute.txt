@@ -1,0 +1,7 @@
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\bin\Debug\1Ex.exe.config
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\bin\Debug\1Ex.exe
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\bin\Debug\1Ex.pdb
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\obj\Debug\1Ex.csproj.AssemblyReference.cache
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\obj\Debug\1Ex.csproj.CoreCompileInputs.cache
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\obj\Debug\1Ex.exe
+C:\Users\Hitech\source\repos\НЕЗНАЮ\1Ex\obj\Debug\1Ex.pdb
